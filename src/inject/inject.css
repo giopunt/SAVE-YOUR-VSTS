@@ -1,0 +1,18 @@
+#pull-request-complete-button {
+  display: none;
+}
+
+#pull-request-complete-button-menubutton {
+  width: 130px;
+  display: flex;
+  border-left: 0px;
+}
+
+#pull-request-complete-button-menubutton:before {
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: -2px;
+  content: "Complete";
+  font-family: "Segoe UI Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+  font-weight: bold;
+}
