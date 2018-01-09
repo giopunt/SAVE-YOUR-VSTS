@@ -1,5 +1,7 @@
 # SAVE YOUR VSTS (ass)
 
+![](https://raw.githubusercontent.com/giopunt/SAVE-YOUR-VSTS/master/icons/icon64.png)
+
 Chrome Extension that will save your VSTS ass by changing the Complete Pull Request button functionality.
 
 It will simple hide the `Complete` button and extend the dropdown menu so you won't click and complete without actually giving confirmation.
@@ -7,5 +9,4 @@ It will simple hide the `Complete` button and extend the dropdown menu so you wo
 [GET IT HERE](https://chrome.google.com/webstore/detail/save-your-vsts/jolldmdafoaiagcliefnbaibnplhpbji)
 
 ![](https://image.ibb.co/c7YdE6/desc.png)
-
 
