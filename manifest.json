@@ -2,7 +2,7 @@
   "name": "SAVE YOUR VSTS",
   "author": "Giovanni Puntil",
   "short_name": "SYVSTS",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "manifest_version": 2,
   "description": "This extension will save your VSTS ass by changing the complete pull request button functionality",
   "homepage_url": "https://github.com/giopunt/SAVE-YOUR-VSTS",
